@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DC20_2108_TarSpot_6photo_1_2020-08-27-09-56-13.jpg_02_02.jpg</filename>
+	<path>object_detection_demo/images/train/DC20_2108_TarSpot_6photo_1_2020-08-27-09-56-13.jpg_02_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>77</ymin>
+			<xmax>40</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
