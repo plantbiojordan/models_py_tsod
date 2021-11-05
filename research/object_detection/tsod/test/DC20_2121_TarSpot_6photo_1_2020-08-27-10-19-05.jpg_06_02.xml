@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Addie_WorkingImages</folder>
+	<filename>DC20_2121_TarSpot_6photo_1_2020-08-27-10-19-05.jpg_06_02.jpg</filename>
+	<path>Z:\Personnel\Elyse\Student_Folders\Addie_WorkingImages\DC20_2121_TarSpot_6photo_1_2020-08-27-10-19-05.jpg_06_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>171</ymin>
+			<xmax>125</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Emma_WorkingImages</folder>
+	<filename>DC20_2178_TarSpot_5photo_3_2020-08-20-09-41-17.jpg_05_01.jpg</filename>
+	<path>/Volumes/ThompsonLab/Personnel/Elyse/Student_Folders/Emma_WorkingImages/DC20_2178_TarSpot_5photo_3_2020-08-20-09-41-17.jpg_05_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>198</ymin>
+			<xmax>211</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

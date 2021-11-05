@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JordanZ_WorkingImages</folder>
+	<filename>DC20_2218_TarSpot_6photo_1_2020-08-27-11-33-58.jpg_05_02.jpg</filename>
+	<path>Z:\Personnel\Elyse\Student_Folders\JordanZ_WorkingImages\DC20_2218_TarSpot_6photo_1_2020-08-27-11-33-58.jpg_05_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>62</ymin>
+			<xmax>57</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leah_WorkingImages</folder>
+	<filename>DC20_2223_TarSpot_6photo_1_2020-08-27-11-43-01.jpg_06_01.jpg</filename>
+	<path>Z:\Personnel\Elyse\Student_Folders\Leah_WorkingImages\DC20_2223_TarSpot_6photo_1_2020-08-27-11-43-01.jpg_06_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>26</ymin>
+			<xmax>113</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+</annotation>

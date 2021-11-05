@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sidney_WorkingImages</folder>
+	<filename>DC20_2112_TarSpot_5photo_1_2020-08-20-09-41-53.jpg_03_02.jpg</filename>
+	<path>C:\Users\sidne\OneDrive\Desktop\Sidney_WorkingImages\DC20_2112_TarSpot_5photo_1_2020-08-20-09-41-53.jpg_03_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>94</ymin>
+			<xmax>260</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

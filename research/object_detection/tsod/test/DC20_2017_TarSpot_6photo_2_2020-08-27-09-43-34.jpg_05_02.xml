@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Elyse_WorkingImages</folder>
+	<filename>DC20_2017_TarSpot_6photo_2_2020-08-27-09-43-34.jpg_05_02.jpg</filename>
+	<path>/Volumes/ThompsonLab/Personnel/Elyse/Student Folders/Elyse_WorkingImages/DC20_2017_TarSpot_6photo_2_2020-08-27-09-43-34.jpg_05_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>175</ymin>
+			<xmax>148</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tarspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>121</ymin>
+			<xmax>72</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
